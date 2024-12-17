@@ -1,2 +1,2 @@
 # ps.dev
-Misc PowerShell scripts thrown together and want to share the knowledge, as there were ones (still loading them) that took me at least 3 days for the main logic.  If I can share something that helps out, please drop a line.
+Misc PowerShell scripts thrown together and want to share the knowledge.  Some of the logic took days of debugging just to figure it out because I'm not a full-time dev and I learn what I need at the time and run with it.
