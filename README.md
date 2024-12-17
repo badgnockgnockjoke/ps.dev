@@ -1,2 +1,5 @@
 # ps.dev
-Misc PowerShell scripts thrown together and want to share the knowledge.  Some of the logic took days of debugging just to figure it out because I'm not a full-time dev and I learn what I need at the time and run with it.
+Misc PowerShell scripts thrown together and want to share the knowledge.  While the scripts are functional, they aren't the prettiest :)  
+
+
+I am going back and formatting them and will put them online when complete.
