@@ -1,5 +1,5 @@
 # ps.dev
-Misc PowerShell scripts thrown together and want to share the knowledge.  While the scripts are functional, they aren't the prettiest :)  
+Misc PowerShell scripts over the years, some being one-liners and others taking weeks to fine tune subroutines.  While the scripts are functional, they aren't the prettiest :)  
 
 
-I am going back and formatting them and will put them online when complete.
+Please hang tight, I'm reformatting and sanitizing things offline and will upload the rest.  If anyone finds something of value or has something to contribute, please step up and share the wealth.
