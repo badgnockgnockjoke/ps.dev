@@ -1,4 +1,4 @@
-Quick PowerShell scripts to fire off emails and store the running tally in a text file.  
+Quick PowerShell scripts to fire off emails when certain EventIDs come up, and store the running tally in a text file.  
 
 Use: 
 - Save contents in "C:\scripts" and modify *.ps1 with the email addresses to/from
